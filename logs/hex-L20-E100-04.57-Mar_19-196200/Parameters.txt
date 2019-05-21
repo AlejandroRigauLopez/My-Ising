@@ -1,0 +1,12 @@
+L,20
+Neurons,2
+Epoch,100
+lamb,0.001
+Cost_Function,binary_crossentropy
+Learning_rate,0.001
+Num_Classes,1
+Len_training,196200
+Len_testing,65400
+Len_validation,65400
+Test_Accuracy,0.9340825688073394
+Time_taken,00.02.29.06
